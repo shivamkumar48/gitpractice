@@ -7,7 +7,9 @@ public class Calculator {
 	
 	public int sub(){
 		
-		return 0;
+		
+		
+		return a-b;
 	}
 	
 	public int mul(){
