@@ -23,7 +23,7 @@ public class Calculator {
 	
 	public int div(){
 		
-		return 0;
+		return a/b;
 	}
 	
 	
