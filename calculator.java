@@ -1,8 +1,12 @@
 public class Calculator {
 	
+	int a;
+	int b;
+	
 	public int add(){
 		
-		return 0;
+		
+		return a+b;
 	}
 	
 	public int sub(){
