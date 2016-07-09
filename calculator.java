@@ -12,7 +12,7 @@ public class Calculator {
 	
 	public int mul(){
 		
-		return 0;
+		return a*b;
 	}
 	
 	public int div(){
